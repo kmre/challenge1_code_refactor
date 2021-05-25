@@ -16,12 +16,14 @@ Things added:
     7) Added some titles to links.
 
 Link to deployed app:
-    https://kmre.github.io/challenge1_code_refactor/
+    [HTTPS](https://kmre.github.io/challenge1_code_refactor/)
 
 Link to repository:
     [HTTPS](https://github.com/kmre/challenge1_code_refactor.git)
-    [SSH](git@github.com:kmre/challenge1_code_refactor.git)    
+
+    [SSH](git@github.com:kmre/challenge1_code_refactor.git)   
+
     [GitHub CLI](gh repo clone kmre/challenge1_code_refactor)
     
 Screenshot:
-    ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") In the works.
+    ![WebPage Screenshot](./assets/images/screenshot-kmre.github.io-2021.05.25-18_39_45.png?raw=true "Screenshot")
